@@ -1,2 +1,3 @@
 # SharePoint-Test-Automation-Package
-Old SharePoint Test Automation Package repository
+**This repository is out of date.** Please look out to the new repository at https://github.com/fbprogmbh/SharePoint-Test-Automation
+
